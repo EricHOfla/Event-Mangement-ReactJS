@@ -1,0 +1,18 @@
+.event-list-wrapper {
+  width: 100%;
+  height: auto;
+  background-color: var(--bg-color);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.event-list {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  padding:0 10rem;
+  margin-top: -120px;
+  margin-bottom: 60px;
+}
